@@ -1,0 +1,4 @@
+pygame-ce==2.5.3
+PyGLM
+PyOpenGL
+esper==2.2
